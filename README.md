@@ -27,10 +27,7 @@ Currently building real projects, refining backend architecture, and preparing f
 <p align="left"> <a href="https://www.github.com/Jitendra-Kumar123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jitendrakumar-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 ## 📊 GitHub Stats
 
-<a href="https://www.github.com/Jitendra-Kumar123">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jitendra-Kumar123&show_icons=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jitendra-Kumar123&show_icons=true&count_private=true&theme=github_dark&hide_border=true)
 
-<a href="https://www.github.com/Jitendra-Kumar123">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-Kumar123&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-Kumar123&theme=github-dark&hide_border=true)
+
