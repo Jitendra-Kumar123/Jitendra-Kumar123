@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=for-the-badge&color=3B82F6" />
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jitendra Kumar 
