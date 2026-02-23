@@ -1,5 +1,6 @@
-<img src="https://img.shields.io/github/watchers/Jitendra-Kumar123/Jitendra-Kumar123"/>
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=for-the-badge&color=3b82f6" />
+</div>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jitendra Kumar 
 =======================================================================================================================================
 
