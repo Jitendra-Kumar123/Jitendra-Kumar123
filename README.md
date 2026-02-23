@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://visitorbadge.vercel.app/api/badge/64c2b587-0b4f-4577-8bcc-81fff8e2642c?style=for-the-badge&color=3b82f6&labelColor=1e293b" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jitendra-Kumar123.Jitendra-Kumar123" />
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jitendra Kumar 
