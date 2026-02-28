@@ -29,10 +29,6 @@ Currently building real projects, refining backend architecture, and preparing f
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
   <img 
     src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
   />
