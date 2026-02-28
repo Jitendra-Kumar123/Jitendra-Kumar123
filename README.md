@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=for-the-badge&color=3B82F6" />
 </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-∞-8A2BE2?style=for-the-badge" />
+  <img src="https://profile-counter.glitch.me/Jitendra-Kumar123/count.svg" />
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jitendra Kumar 
