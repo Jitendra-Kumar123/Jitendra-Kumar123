@@ -33,12 +33,12 @@ Currently building real projects, refining backend architecture, and preparing f
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake-dark.svg">
-    <img 
-      src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
+  />
+  <img 
+    src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" 
+  />
 </p>
 
 ### Socials
