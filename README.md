@@ -29,10 +29,6 @@ Currently building real projects, refining backend architecture, and preparing f
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg" />
 </p>
 
