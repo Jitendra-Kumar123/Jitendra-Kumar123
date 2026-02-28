@@ -1,6 +1,7 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=for-the-badge&color=3B82F6" />
 </div>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/Jitendra-Kumar123/count.svg" />
 </p>
