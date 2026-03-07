@@ -77,6 +77,36 @@ A backend service that converts long URLs into short, shareable links with effic
 * Fast API responses
 * Clean backend architecture
 
+## Tech
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="34" height="34" alt="JavaScript" title="JavaScript" /></a>&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="34" height="34" alt="React" title="React" /></a>&nbsp;
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="34" height="34" alt="NodeJS" title="NodeJS" /></a>&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="34" height="34" alt="Express" title="Express" /></a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="34" height="34" alt="MongoDB" title="MongoDB" /></a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="34" height="34" alt="TailwindCSS" title="TailwindCSS" /></a>&nbsp;
+<a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="34" height="34" alt="Redux" title="Redux" /></a>&nbsp;
+<a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="34" height="34" alt="Vite" title="Vite" /></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="34" height="34" alt="Git" title="Git" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="34" height="34" alt="HTML5" title="HTML5" /></a>&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="34" height="34" alt="CSS3" title="CSS3" /></a>&nbsp;
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="34" height="34" alt="Java" title="Java" /></a>
+</p>
+
+`Socket.io` · `JWT` · `Mongoose` · `REST APIs` · `GitHub Actions` · `Postman`
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jitendra-Kumar123&theme=github-dark-blue&hide_border=true&border_radius=6&card_width=480)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jitendra-Kumar123&show_icons=true&theme=github_dark&hide_border=true&border_radius=6&include_all_commits=true&count_private=true" height="165" />
+
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jitendra-Kumar123&theme=github-dark-blue&hide_border=true&border_radius=8&short_numbers=true&card_width=493)](https://git.io/streak-stats)
 
@@ -191,40 +221,11 @@ https://github.com/Jitendra-Kumar123/URLShortner
 
 ---
 
-## Tech
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="34" height="34" alt="JavaScript" title="JavaScript" /></a>&nbsp;
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="34" height="34" alt="React" title="React" /></a>&nbsp;
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="34" height="34" alt="NodeJS" title="NodeJS" /></a>&nbsp;
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="34" height="34" alt="Express" title="Express" /></a>&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="34" height="34" alt="MongoDB" title="MongoDB" /></a>&nbsp;
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="34" height="34" alt="TailwindCSS" title="TailwindCSS" /></a>&nbsp;
-<a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="34" height="34" alt="Redux" title="Redux" /></a>&nbsp;
-<a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="34" height="34" alt="Vite" title="Vite" /></a>&nbsp;
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="34" height="34" alt="Git" title="Git" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="34" height="34" alt="HTML5" title="HTML5" /></a>&nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="34" height="34" alt="CSS3" title="CSS3" /></a>&nbsp;
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="34" height="34" alt="Java" title="Java" /></a>
-</p>
 
-`Socket.io` · `JWT` · `Mongoose` · `REST APIs` · `GitHub Actions` · `Postman`
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jitendra-Kumar123&theme=github-dark-blue&hide_border=true&border_radius=6&card_width=480)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jitendra-Kumar123&show_icons=true&theme=github_dark&hide_border=true&border_radius=6&include_all_commits=true&count_private=true" height="165" />
-
-</div>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
   <img src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</p>
+</p> -->
 
 ---
