@@ -144,11 +144,6 @@ If you're building something serious, feel free to reach out.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
 </div>
   
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=plastic-square&color=2563eb&label=profile+views" />
-</div>
-
-<br/>
 ---
 
 ## Engineering Focus
@@ -162,15 +157,6 @@ If you're building something serious, feel free to reach out.
 ---
 
 ## Projects
-
-### AI Code Reviewer
-
-AI-powered code review tool that analyzes source code and returns structured feedback including bugs, performance issues, and style suggestions using Google's Gemini API.
-
-Backend built with **Node.js + Express REST API** designed for fast responses and clean architecture.
-
-**Stack:** Node.js · Express · JavaScript · Google Gemini API  
-
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/CodeReviewer  
 
@@ -178,12 +164,6 @@ https://github.com/Jitendra-Kumar123/CodeReviewer
 https://code-reviewer-pi-pearl.vercel.app
 
 ---
-
-### Soen — AI Software Engineer
-
-Experimental project exploring what an **AI-assisted software engineer** could look like — a system that decomposes development tasks, reasons about architecture, and assists developers in building real systems.
-
-**Stack:** Node.js · JavaScript  
 
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/Soen--AI-Software-Engineer  
@@ -193,28 +173,10 @@ https://soen-ai-software-engineer.vercel.app
 
 ---
 
-### ReelDine — Food Discovery App
-
-Full-stack MERN application where users discover restaurants through a **short-form video feed** (think Zomato meets TikTok).
-
-Built with React frontend, JWT authentication, MongoDB database layer, and REST APIs.
-
-Interesting engineering challenge was implementing **smooth infinite feed performance with lazy loading and media optimization**.
-
-**Stack:** React · Node.js · Express · MongoDB · Tailwind CSS  
-
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/ReelDine
 
 ---
-
-### URL Shortener
-
-Backend service that converts long URLs into short slugs and handles redirects efficiently.
-
-Built to practice **production-quality Node.js architecture**, proper error handling, and MVC separation.
-
-**Stack:** Node.js · Express · MongoDB  
 
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/URLShortner
