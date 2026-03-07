@@ -1,13 +1,4 @@
-<div align="center">
-
-<!-- Capsule Render Header - very reliable -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7c3aed,100:c026d3&height=220&section=header&text=Isha%20Singh&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20Enthusiast%20%E2%9C%A6%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=e9d5ff" />
-
-<!-- Profile Views - komarev is very reliable -->
-![Profile Views](https://komarev.com/ghpvc/?username=Jitendra-Kumar123&color=a855f7&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Jitendra-Kumar123?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/Jitendra-Kumar123)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jitendra%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Building%20Scalable%20Web%20Applications&descAlignY=60&descSize=18" />
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=for-the-badge&color=3B82F6" />
