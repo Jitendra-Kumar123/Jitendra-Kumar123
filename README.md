@@ -145,9 +145,6 @@ https://github.com/Jitendra-Kumar123/URLShortner
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=130&section=footer&text=Building+Real+World+Software&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=130&section=footer&text=Ship+Fast+Build+Better&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=130&section=footer&text=Code.+Build.+Scale.&fontSize=22&fontColor=ffffff&animation=scaleIn&fontAlignY=70" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=130&section=footer&text=Code.+Build.+Scale.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer&text=Code.+Build.+Scale.&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
+
 </div>
