@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=200&section=header&text=Jitendra%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=200&section=header&text=Jitendra%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20•%20Backend%20Systems%20•%20AI%20Developer%20Tools&descAlignY=60&descSize=18" />
 </div>
 
 <div align="right">
@@ -8,9 +8,15 @@
 
 <br/>
 
-I'm a full-stack developer based in India, focused on building web applications that are fast, maintainable, and actually deployed — not just sitting in a repo.
+I'm a full-stack developer based in India focused on building **fast, maintainable, production-ready web applications**.
 
-My stack is React + Node.js + Express + MongoDB. I care about how things work end to end: API design, auth flows, database structure, frontend state — the full picture. Right now I'm actively building and shipping projects while targeting remote roles at product companies.
+My core stack is **React + Node.js + Express + MongoDB**, and I enjoy working across the entire system — from API design and database architecture to frontend performance and user experience.
+
+Right now I'm actively **building and shipping projects**, improving backend architecture, and targeting **remote engineering roles at product companies.**
+
+• React + Node.js + MongoDB stack  
+• End-to-end systems: APIs, auth flows, database design  
+• Focus on scalable backend architecture  
 
 - 📍 India — open to remote globally  
 - 📬 jitendrakumar.dev.cs@gmail.com  
@@ -18,41 +24,73 @@ My stack is React + Node.js + Express + MongoDB. I care about how things work en
 
 ---
 
+## Engineering Focus
+
+• Scalable backend systems  
+• REST API design & architecture  
+• Real-time applications  
+• AI-powered developer tools  
+• Production-ready Node.js services  
+
+---
+
 ## Projects
 
 ### AI Code Reviewer
 
-Built a code review tool that uses Google's Gemini API to analyze code and return structured feedback — bugs, performance issues, and style suggestions, organized by category. The backend is a Node/Express REST API with sub-2s response times. I built this because I wanted something that gave specific, actionable feedback rather than generic AI commentary.
+AI-powered code review tool that analyzes source code and returns structured feedback including bugs, performance issues, and style suggestions using Google's Gemini API.
+
+Backend built with **Node.js + Express REST API** designed for fast responses and clean architecture.
 
 **Stack:** Node.js · Express · JavaScript · Google Gemini API  
-**[GitHub](https://github.com/Jitendra-Kumar123/CodeReviewer) · [Live](https://code-reviewer-pi-pearl.vercel.app)**
+
+🔗 Repo  
+https://github.com/Jitendra-Kumar123/CodeReviewer  
+
+🌐 Live  
+https://code-reviewer-pi-pearl.vercel.app
 
 ---
 
 ### Soen — AI Software Engineer
 
-An experimental project exploring what an AI coding assistant that actually thinks through development tasks would look like. Not a chatbot — more of a workflow tool that decomposes tasks, reasons about code structure, and assists at the architecture level. Ongoing research project.
+Experimental project exploring what an **AI-assisted software engineer** could look like — a system that decomposes development tasks, reasons about architecture, and assists developers in building real systems.
 
 **Stack:** Node.js · JavaScript  
-**[GitHub](https://github.com/Jitendra-Kumar123/Soen--AI-Software-Engineer) · [Live](https://soen-ai-software-engineer.vercel.app)**
+
+🔗 Repo  
+https://github.com/Jitendra-Kumar123/Soen--AI-Software-Engineer  
+
+🌐 Live  
+https://soen-ai-software-engineer.vercel.app
 
 ---
 
 ### ReelDine — Food Discovery App
 
-Full-stack MERN app where users discover restaurants through a short-form video feed — think Zomato meets TikTok. Built the entire stack: React frontend with infinite scroll, JWT-based auth, MongoDB data layer, and a REST API with 10+ endpoints. The interesting engineering part was getting smooth feed performance with lazy loading and prefetching.
+Full-stack MERN application where users discover restaurants through a **short-form video feed** (think Zomato meets TikTok).
+
+Built with React frontend, JWT authentication, MongoDB database layer, and REST APIs.
+
+Interesting engineering challenge was implementing **smooth infinite feed performance with lazy loading and media optimization**.
 
 **Stack:** React · Node.js · Express · MongoDB · Tailwind CSS  
-**[GitHub](https://github.com/Jitendra-Kumar123/ReelDine)** *(deploying soon)*
+
+🔗 Repo  
+https://github.com/Jitendra-Kumar123/ReelDine
 
 ---
 
 ### URL Shortener
 
-A focused backend service — takes a long URL, returns a short slug, handles redirects fast. Sub-50ms redirect latency, clean MVC structure, deployed. Simple scope, but I used it to practice writing production-quality Node.js with proper error handling and separation of concerns.
+Backend service that converts long URLs into short slugs and handles redirects efficiently.
+
+Built to practice **production-quality Node.js architecture**, proper error handling, and MVC separation.
 
 **Stack:** Node.js · Express · MongoDB  
-**[GitHub](https://github.com/Jitendra-Kumar123/URLShortner)** *(deploying soon)*
+
+🔗 Repo  
+https://github.com/Jitendra-Kumar123/URLShortner
 
 ---
 
@@ -84,7 +122,6 @@ A focused backend service — takes a long URL, returns a short slug, handles re
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jitendra-Kumar123&theme=github-dark-blue&hide_border=true&border_radius=6&card_width=480)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jitendra-Kumar123&show_icons=true&theme=github_dark&hide_border=true&border_radius=6&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-Kumar123&layout=compact&theme=github_dark&hide_border=true&border_radius=6&langs_count=6" height="165" />
 
 </div>
 
@@ -98,28 +135,22 @@ A focused backend service — takes a long URL, returns a short slug, handles re
 ## Connect
 
 <p align="left">
-<a href="https://www.github.com/Jitendra-Kumar123" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" alt="GitHub" />
-  </picture>
+
+<a href="https://www.linkedin.com/in/jitendrakumar-dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
 </a>
+
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jitendrakumar-dev/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn" />
-  </picture>
-</a>
-&nbsp;&nbsp;
+
 <a href="mailto:jitendrakumar.dev.cs@gmail.com">
-  <img src="https://img.shields.io/badge/email-jitendrakumar.dev.cs%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/email-jitendrakumar.dev.cs%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
-Open to remote roles — full-stack JavaScript, MERN, backend Node.js. If you're building something serious, reach out.
+Open to **remote roles — full-stack JavaScript, MERN, backend Node.js.**
+
+If you're building something serious, feel free to reach out.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
