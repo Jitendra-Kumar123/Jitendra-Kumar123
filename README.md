@@ -70,7 +70,7 @@ const Jitendra_Kumar = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
@@ -92,7 +92,7 @@ const Jitendra_Kumar = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -105,7 +105,7 @@ const Jitendra_Kumar = {
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
@@ -114,7 +114,7 @@ const Jitendra_Kumar = {
 
 ---
 
-## 🤝 Let's Connect
+## Social Links for Networking
 
 <p align="left">
 <a href="https://www.github.com/Jitendra-Kumar123" target="_blank" rel="noreferrer">
