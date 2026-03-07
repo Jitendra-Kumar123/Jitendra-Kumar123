@@ -123,7 +123,7 @@ https://github.com/Jitendra-Kumar123/URLShortner
 </div>
 
 ---
-
+## Contribution Graph
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
@@ -142,6 +142,5 @@ https://github.com/Jitendra-Kumar123/URLShortner
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
-  Keep Building
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" Keep Building />
 </div>
