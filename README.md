@@ -11,7 +11,7 @@
 ## `> whoami`
 
 ```ts
-const jitendra = {
+const Jitendra_Kumar = {
   role        : "Full-Stack MERN Developer",
   location    : "India 🇮🇳  — Remote-first",
   contact     : "jitendrakumar.dev.cs@gmail.com",
