@@ -37,6 +37,7 @@ An AI-powered code review tool that analyzes source code and provides intelligen
 * AI-based code analysis
 * Automated feedback and suggestions
 * Developer productivity improvement
+  
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/CodeReviewer  
 🌐 Live  
@@ -54,6 +55,7 @@ An experimental AI-powered collaborative coding assistant designed to simulate a
 * AI-assisted development workflows
 * Developer collaboration concepts
 * AI integration in software engineering
+  
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/Soen--AI-Software-Engineer  
 🌐 Live  
@@ -70,6 +72,7 @@ A modern MERN-based food discovery platform inspired by Zomato, featuring a reel
 * Reels-style content feed
 * Restaurant discovery interface
 * Modern responsive UI
+  
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/ReelDine
 ---
@@ -84,6 +87,7 @@ A backend service that converts long URLs into short, shareable links with effic
 * URL compression and redirection
 * Fast API responses
 * Clean backend architecture
+  
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/URLShortner
 ## Tech
@@ -117,7 +121,7 @@ https://github.com/Jitendra-Kumar123/URLShortner
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jitendra-Kumar123&theme=github-dark-blue&hide_border=true&border_radius=8&short_numbers=true&card_width=493)](https://git.io/streak-stats)
+---
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
