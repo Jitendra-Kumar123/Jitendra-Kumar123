@@ -96,6 +96,30 @@ A backend service that converts long URLs into short, shareable links with effic
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Jitendra-Kumar123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jitendrakumar-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p><div align="center">
+## Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jitendrakumar-dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:jitendrakumar.dev.cs@gmail.com">
+<img src="https://img.shields.io/badge/email-jitendrakumar.dev.cs%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+Open to **remote roles — full-stack JavaScript, MERN, backend Node.js.**
+
+If you're building something serious, feel free to reach out.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
+</div>
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=200&section=header&text=Jitendra%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20•%20Backend%20Systems%20•%20AI%20Developer%20Tools&descAlignY=60&descSize=18" />
 </div>
 
@@ -213,27 +237,3 @@ https://github.com/Jitendra-Kumar123/URLShortner
 </p>
 
 ---
-
-## Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jitendrakumar-dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:jitendrakumar.dev.cs@gmail.com">
-<img src="https://img.shields.io/badge/email-jitendrakumar.dev.cs%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-Open to **remote roles — full-stack JavaScript, MERN, backend Node.js.**
-
-If you're building something serious, feel free to reach out.
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
-</div>
