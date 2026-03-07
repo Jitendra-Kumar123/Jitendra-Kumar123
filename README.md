@@ -104,21 +104,6 @@ A backend service that converts long URLs into short, shareable links with effic
 </div>
 
 <br/>
-
-I'm a full-stack developer based in India focused on building **fast, maintainable, production-ready web applications**.
-
-My core stack is **React + Node.js + Express + MongoDB**, and I enjoy working across the entire system — from API design and database architecture to frontend performance and user experience.
-
-Right now I'm actively **building and shipping projects**, improving backend architecture, and targeting **remote engineering roles at product companies.**
-
-• React + Node.js + MongoDB stack  
-• End-to-end systems: APIs, auth flows, database design  
-• Focus on scalable backend architecture  
-
-- 📍 India — open to remote globally  
-- 📬 jitendrakumar.dev.cs@gmail.com  
-- 💼 Looking for: remote engineering roles, YC startups, Series A–C, FAANG
-
 ---
 
 ## Engineering Focus
