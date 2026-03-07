@@ -25,6 +25,59 @@ Currently building real projects, refining backend architecture, and preparing f
 * 👥  I'm looking to collaborate on Real-world web applications, SaaS tools, and open-source projects.
 * 💬  Ask me about internships, freelance work, and serious collaborations
 
+## 🚀 Featured Projects
+
+### 🤖 AI Code Reviewer
+
+An AI-powered code review tool that analyzes source code and provides intelligent suggestions using the Gemini API.
+
+• Tech Stack: Node.js, Express, JavaScript, Google Gemini API
+• Features:
+
+* AI-based code analysis
+* Automated feedback and suggestions
+* Developer productivity improvement
+
+---
+
+### 🧠 Soen AI Software Engineer
+
+An experimental AI-powered collaborative coding assistant designed to simulate an AI software engineer capable of assisting with development tasks.
+
+• Tech Stack: JavaScript, Node.js
+• Features:
+
+* AI-assisted development workflows
+* Developer collaboration concepts
+* AI integration in software engineering
+
+---
+
+### 🍽 ReelDine – Modern Food Discovery Platform
+
+A modern MERN-based food discovery platform inspired by Zomato, featuring a reels-style video feed for exploring restaurants and food experiences.
+
+• Tech Stack: React, Node.js, Express, MongoDB
+• Features:
+
+* Reels-style content feed
+* Restaurant discovery interface
+* Modern responsive UI
+
+---
+
+### 🔗 URL Shortener
+
+A backend service that converts long URLs into short, shareable links with efficient redirection.
+
+• Tech Stack: Node.js, Express, MongoDB
+• Features:
+
+* URL compression and redirection
+* Fast API responses
+* Clean backend architecture
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jitendra-Kumar123&theme=github-dark-blue&hide_border=true&border_radius=8&short_numbers=true&card_width=493)](https://git.io/streak-stats)
 
 <p align="left">
