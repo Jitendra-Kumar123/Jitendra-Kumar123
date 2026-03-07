@@ -40,7 +40,7 @@ An AI-powered code review tool that analyzes source code and provides intelligen
 
 ---
 
-### 🧠 Soen AI Software Engineer
+### 🧠 Soen - AI Software Engineer
 
 An experimental AI-powered collaborative coding assistant designed to simulate an AI software engineer capable of assisting with development tasks.
 
