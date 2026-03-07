@@ -24,6 +24,7 @@ Currently building real projects, refining backend architecture, and preparing f
 * 🧠  I'm currently learning Scalable API design & system fundamentals
 * 👥  I'm looking to collaborate on Real-world web applications, SaaS tools, and open-source projects.
 * 💬  Ask me about internships, freelance work, and serious collaborations
+---
 
 ## 🚀 Featured Projects
 
@@ -93,6 +94,8 @@ A backend service that converts long URLs into short, shareable links with effic
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/URLShortner
 
+---
+
 ## Tech
 
 <p align="left">
@@ -142,5 +145,5 @@ https://github.com/Jitendra-Kumar123/URLShortner
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" Keep Building />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
 </div>
