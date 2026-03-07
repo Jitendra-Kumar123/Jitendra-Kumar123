@@ -37,6 +37,10 @@ An AI-powered code review tool that analyzes source code and provides intelligen
 * AI-based code analysis
 * Automated feedback and suggestions
 * Developer productivity improvement
+🔗 Repo  
+https://github.com/Jitendra-Kumar123/CodeReviewer  
+🌐 Live  
+https://code-reviewer-pi-pearl.vercel.app
 
 ---
 
@@ -50,7 +54,10 @@ An experimental AI-powered collaborative coding assistant designed to simulate a
 * AI-assisted development workflows
 * Developer collaboration concepts
 * AI integration in software engineering
-
+🔗 Repo  
+https://github.com/Jitendra-Kumar123/Soen--AI-Software-Engineer  
+🌐 Live  
+https://soen-ai-software-engineer.vercel.app
 ---
 
 ### 🍽 ReelDine – Modern Food Discovery Platform
@@ -63,7 +70,8 @@ A modern MERN-based food discovery platform inspired by Zomato, featuring a reel
 * Reels-style content feed
 * Restaurant discovery interface
 * Modern responsive UI
-
+🔗 Repo  
+https://github.com/Jitendra-Kumar123/ReelDine
 ---
 
 ### 🔗 URL Shortener
@@ -76,7 +84,8 @@ A backend service that converts long URLs into short, shareable links with effic
 * URL compression and redirection
 * Fast API responses
 * Clean backend architecture
-
+🔗 Repo  
+https://github.com/Jitendra-Kumar123/URLShortner
 ## Tech
 
 <p align="left">
@@ -155,36 +164,6 @@ If you're building something serious, feel free to reach out.
 • Production-ready Node.js services  
 
 ---
-
-## Projects
-🔗 Repo  
-https://github.com/Jitendra-Kumar123/CodeReviewer  
-
-🌐 Live  
-https://code-reviewer-pi-pearl.vercel.app
-
----
-
-🔗 Repo  
-https://github.com/Jitendra-Kumar123/Soen--AI-Software-Engineer  
-
-🌐 Live  
-https://soen-ai-software-engineer.vercel.app
-
----
-
-🔗 Repo  
-https://github.com/Jitendra-Kumar123/ReelDine
-
----
-
-🔗 Repo  
-https://github.com/Jitendra-Kumar123/URLShortner
-
----
-
-
-
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
   <img src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
