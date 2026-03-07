@@ -33,7 +33,7 @@ const Jitendra_Kumar = {
 |---|---|
 | **Stack** | `Node.js` `Express` `JavaScript` `Google Gemini API` |
 | **Highlights** | Supports 5+ programming languages · Structured feedback by category (bugs, perf, style) · REST API with <2s avg response time |
-| **Links** | [📂 GitHub Repo](https://github.com/Jitendra-Kumar123/ai-code-reviewer) · [🌐 Live Demo](#) |
+| **Links** | [📂 GitHub Repo](https://github.com/Jitendra-Kumar123/CodeReviewer) · [🌐 Live Demo](code-reviewer-pi-pearl.vercel.app) |
 
 ---
 
@@ -44,7 +44,7 @@ const Jitendra_Kumar = {
 |---|---|
 | **Stack** | `Node.js` `JavaScript` `REST APIs` |
 | **Highlights** | AI-driven dev workflow automation · Modular prompt engineering architecture · Multi-step task decomposition |
-| **Links** | [📂 GitHub Repo](https://github.com/Jitendra-Kumar123/soen) · [🌐 Live Demo](#) |
+| **Links** | [📂 GitHub Repo](https://github.com/Jitendra-Kumar123/Soen--AI-Software-Engineer) · [🌐 Live Demo](soen-ai-software-engineer.vercel.app) |
 
 ---
 
@@ -55,7 +55,7 @@ const Jitendra_Kumar = {
 |---|---|
 | **Stack** | `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` |
 | **Highlights** | Infinite scroll reels feed · JWT auth + protected routes · RESTful API with 10+ endpoints · Mobile-responsive |
-| **Links** | [📂 GitHub Repo](https://github.com/Jitendra-Kumar123/reeldine) · [🌐 Live Demo](#) |
+| **Links** | [📂 GitHub Repo](https://github.com/Jitendra-Kumar123/ReelDine) · [🌐 Live Demo](#) |
 
 ---
 
@@ -66,7 +66,7 @@ const Jitendra_Kumar = {
 |---|---|
 | **Stack** | `Node.js` `Express` `MongoDB` |
 | **Highlights** | <50ms redirect latency · Unique slug generation · Clean MVC architecture · Deployed & production-ready |
-| **Links** | [📂 GitHub Repo](https://github.com/Jitendra-Kumar123/url-shortener) · [🌐 Live Demo](#) |
+| **Links** | [📂 GitHub Repo](https://github.com/Jitendra-Kumar123/URLShortner) · [🌐 Live Demo](#) |
 
 ---
 
