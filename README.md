@@ -120,11 +120,8 @@ If you're building something serious, feel free to reach out.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
 </div>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=200&section=header&text=Jitendra%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20•%20Backend%20Systems%20•%20AI%20Developer%20Tools&descAlignY=60&descSize=18" />
-</div>
-
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=flat-square&color=2563eb&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=plastic-square&color=2563eb&label=profile+views" />
 </div>
 
 <br/>
