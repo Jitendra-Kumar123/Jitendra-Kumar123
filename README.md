@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jitendra%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Building%20Scalable%20Web%20Applications&descAlignY=60&descSize=18" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:3b82f6,100:60a5fa&height=220&section=header&text=Jitendra%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Backend%20Architecture%20%7C%20Scalable%20Systems&descAlignY=60&descSize=18" />
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Jitendra-Kumar123&style=for-the-badge&color=3B82F6" />
 </div>
