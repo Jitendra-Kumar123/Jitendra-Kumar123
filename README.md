@@ -140,37 +140,14 @@ https://github.com/Jitendra-Kumar123/URLShortner
 
 <p align="left"> <a href="https://www.github.com/Jitendra-Kumar123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jitendrakumar-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p><div align="center">
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jitendrakumar-dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/email-jitendrakumar.dev.cs%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white"/>
-</p>
-
-If you're building something serious, feel free to reach out.
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer" />
 </div>
   
----
-
 ## Engineering Focus
 
 • Scalable backend systems  
 • REST API design & architecture  
 • Real-time applications  
 • AI-powered developer tools  
-• Production-ready Node.js services  
-
----
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</p> -->
-
----
+• Production-ready Node.js services 
