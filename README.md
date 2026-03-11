@@ -145,5 +145,5 @@ https://github.com/Jitendra-Kumar123/URLShortner
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=200&section=footer&text=Code.+Build.+Scale.&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=110&section=footer.&fontSize=22&fontColor=ffffff&fontAlignY=70" />
 </div>
