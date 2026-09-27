@@ -70,23 +70,6 @@ A modern MERN-based food discovery platform inspired by Zomato, featuring a reel
   
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/ReelDine
-
----
-
-### 🔗 URL Shortener
-
-A backend service that converts long URLs into short, shareable links with efficient redirection.
-
-• Tech Stack: Node.js, Express, MongoDB
-• Features:
-
-* URL compression and redirection
-* Fast API responses
-* Clean backend architecture
-  
-🔗 Repo  
-https://github.com/Jitendra-Kumar123/URLShortner
-
 ---
 
 ## Tech
