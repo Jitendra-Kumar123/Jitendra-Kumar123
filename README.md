@@ -70,6 +70,7 @@ A modern MERN-based food discovery platform inspired by Zomato, featuring a reel
   
 🔗 Repo  
 https://github.com/Jitendra-Kumar123/ReelDine
+
 ---
 
 ## Tech
