@@ -1,3 +1,4 @@
+## 💫 About Me: 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jitendra Kumar 
 =======================================================================================================================================
 
@@ -13,13 +14,13 @@ I care about code quality, performance, and real-world usability, not just demos
 Currently building real projects, refining backend architecture, and preparing for high-impact developer roles.
 
 * 🌍  I'm based in India (Remote-friendly)
-* ✉️  You can contact me at [jitendrakumar.dev.cs@gmail.com](mailto:jitendrakumar.dev.cs@gmail.com)
+* ✉️  You can contact me at [jitendrakumar.dev.cs@gmail.com](mailto:jitendrakumar.dev.cs@gmail.com) | [jitendrakumar.dev.cs@gmail.com](mailto:jitendrakumar.dev.cs@gmail.com)
 * 🧠  I'm currently learning Scalable API design & system fundamentals
 * 👥  I'm looking to collaborate on Real-world web applications, SaaS tools, and open-source projects.
 * 💬  Ask me about internships, freelance work, and serious collaborations
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects:
 
 ### 🤖 AI Code Reviewer
 
@@ -33,7 +34,7 @@ An AI-powered code review tool that analyzes source code and provides intelligen
 * Developer productivity improvement
   
 🔗 Repo  
-https://github.com/Jitendra-Kumar123/CodeReviewer  
+https://github.com/jitendrog/CodeReviewer  
 🌐 Live  
 https://code-reviewer-pi-pearl.vercel.app
 
@@ -51,7 +52,7 @@ An experimental AI-powered collaborative coding assistant designed to simulate a
 * AI integration in software engineering
   
 🔗 Repo  
- https://github.com/Jitendra-Kumar123/Soen--AI-Software-Engineer  
+ https://github.com/jitendrog/Soen--AI-Software-Engineer  
 🌐 Live  
  https://soen-ai-software-engineer.vercel.app
  
@@ -69,11 +70,11 @@ A modern MERN-based food discovery platform inspired by Zomato, featuring a reel
 * Modern responsive UI
   
 🔗 Repo  
-https://github.com/Jitendra-Kumar123/ReelDine
+https://github.com/jitendrog/ReelDine
 
 ---
 
-## Tech
+##  💻 Tech Stack:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="34" height="34" alt="JavaScript" title="JavaScript" /></a>&nbsp;
@@ -94,27 +95,27 @@ https://github.com/Jitendra-Kumar123/ReelDine
 
 ---
 
-## GitHub Activity
+## GitHub Activity:
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Jitendra-Kumar123&theme=github-dark-blue&hide_border=true&border_radius=6&card_width=480)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jitendrog&theme=github-dark-blue&hide_border=true&border_radius=6&card_width=480)](https://git.io/streak-stats)
   
 </div>
 
 ---
-## Contribution Graph
+## Contribution Graph: 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
+    src="https://raw.githubusercontent.com/jitendrog/jitendrog/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
   />
   <img 
-    src="https://raw.githubusercontent.com/Jitendra-Kumar123/Jitendra-Kumar123/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" 
+    src="https://raw.githubusercontent.com/jitendrog/jitendrog/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" 
   />
 </p>
 
 ---
 
-### Socials
+### Socials: 
 
-<p align="left"> <a href="https://www.github.com/Jitendra-Kumar123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jitendrakumar-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p><div align="center">
+<p align="left"> <a href="https://www.github.com/jitendrog" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jitendrakumarg/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p><div align="center">
